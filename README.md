@@ -1,4 +1,6 @@
 # Introduction: How LLMs Work & How to Steal Them
+# IMPORTANT: Plesae make sure to create a hugging face access token to be able to run the demo 
+
 
 ## 1. How LLMs Work
 
@@ -49,3 +51,5 @@ This has implications for AI security, intellectual property, and responsible de
 - Building a dataset
 - Training a adversary model
 - Comparing the adversary's outputs to the original
+
+
