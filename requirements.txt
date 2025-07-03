@@ -1,0 +1,6 @@
+jupyter
+notebook
+transformers
+torch
+tqdm
+numpy
