@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/56a0a019-9de9-4020-b785-ff0be25ad48b)
+
 # Introduction: How LLMs Work & How to Steal Them
 # IMPORTANT: Plesae make sure to create a hugging face access token to be able to run the demo 
 
